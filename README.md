@@ -1,6 +1,6 @@
 # 🌐 Modern eCommerce Website
 
-A stylish, responsive, and fully functional eCommerce website built using **HTML, CSS, and JavaScript**. This project showcases a clean user interface, scroll animations, glassmorphism design, theme toggle, and smooth UX — perfect for your portfolio or resume!
+A stylish, responsive, and fully functional eCommerce website built using **HTML, CSS, and JavaScript**. This project showcases a clean user interface, scroll animations, glassmorphism design, theme toggle, and smooth UX.
 
 > 🔗 **Live Demo:** [https://asrakumari.github.io/Ecommerce-Website/](https://asrakumari.github.io/Ecommerce-Website/)
 
